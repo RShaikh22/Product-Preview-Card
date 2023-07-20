@@ -10,11 +10,11 @@ footer {
 
 @font-face {
     font-family: Fraunces;
-    src: url(Fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+    src: url(fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
 }
 @font-face {
     font-family: Montserrat;
-    src: url(Fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+    src: url(fonts/montserrat/Montserrat-VariableFont_wght.ttf);
 }
 
 * {
