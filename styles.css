@@ -46,7 +46,7 @@ main {
 }
 
 #image {
-    content: url('images/image-product-desktop.jpg');
+    content: url('image-product-desktop.jpg');
     width: 20em;
     border-radius: 10px 0 0 10px;
 }
@@ -131,7 +131,7 @@ button:hover {
     }
 
     #image {
-        content: url('images/image-product-mobile.jpg');
+        content: url('image-product-mobile.jpg');
         border-radius: 10px 10px 0 0;
         width: 22em;
     }
